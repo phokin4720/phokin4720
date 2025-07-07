@@ -22,5 +22,6 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?logo=facebook&logoColor=white)](https://fb.com/phokin4720)  
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://instagram.com/toey_2216)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/am4am)
 
 ---
