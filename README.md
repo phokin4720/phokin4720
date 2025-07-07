@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phokin Jantima</h1>
+<h1 align="center">I'm Phokin Jantima</h1>
 <h3 align="center">Aspiring frontend developer from Thailand.</h3>
 
 ---
