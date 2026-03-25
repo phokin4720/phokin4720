@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <b>Phokin Jantima</b></h1>
+<h1 align="center">Hello, I'm <b>Toey</b></h1>
 <h3 align="center">Frontend Developer aspiring to become a Fullstack Developer with a personal style</h3>
 
 ---
