@@ -17,17 +17,30 @@
 
 ```ts
 const Toey = {
-  role: "Frontend Developer",
-  focus: "Future Fullstack Engineer",
-  location: "Thailand 🇹🇭",
-  passion: ["Modern UI", "Cloud", "Backend Systems", "Clean UX"],
-  
-  techStack: {
-    frontend: ["React", "Next.js", "Flutter", "TailwindCSS"],
-    backend: ["Django", "Node.js", "Rust"],
+  title: "Frontend Developer",
+  mission: "Crafting modern interfaces while evolving into a Fullstack Developer",
+
+  mindset: [
+    "Design-first thinking",
+    "Pixel-perfect UI",
+    "Performance-driven development",
+    "Always learning beyond the frontend"
+  ],
+
+  specialization: {
+    frontend: {
+      main: ["React", "Next.js", "Flutter", "TailwindCSS"],
+      focus: ["Modern UI", "Responsive Design", "Interactive UX"]
+    },
+
+    backendJourney: {
+      learning: ["Django", "Node.js", "Rust"],
+      goal: "Building scalable fullstack applications"
+    },
+
     database: ["PostgreSQL", "MongoDB"],
-    cloud: ["Azure", "Docker"],
+    cloud: ["Azure", "Docker"]
   },
 
-  currentlyLearning: ["Rust", "System Design", "Cloud Architecture"]
+  currentArc: "Turning frontend creativity into fullstack engineering ⚡"
 }
