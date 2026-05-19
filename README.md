@@ -1,15 +1,8 @@
 <div align="center">
 
-# ✦ Toey.dev ✦
+# ✦ Hello World, I'm Toey ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Obsessed+with+Modern+UI+%26+UX;Building+beautiful+digital+experiences;Learning+Backend+%26+Cloud+Architecture;Future+Fullstack+Engineer+⚡" />
-
-<h3>
-Designing clean interfaces today.  
-Building fullstack systems tomorrow.
-</h3>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Future+Fullstack+Engineer;Building+Modern+Web+Experiences;Flutter+%7C+Django+%7C+Rust+%7C+Cloud" />
 
 <p align="center">
   <a href="https://fb.com/phokin4720"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
