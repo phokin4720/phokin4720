@@ -1,27 +1,33 @@
-<h1 align="center">Hello, I'm <b>Toey</b></h1>
-<h3 align="center">Frontend Developer aspiring to become a Fullstack Developer with a personal style</h3>
+<div align="center">
 
----
+# ✦ Hello World, I'm Toey ✦
 
-### Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Future+Fullstack+Engineer;Building+Modern+Web+Experiences;Flutter+%7C+Django+%7C+Rust+%7C+Cloud" />
 
-| Category | Technologies |
-|:--|:--|
-| Design | <img src="https://img.shields.io/badge/Figma-00C4CC?logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Framer-000000?logo=framer&logoColor=white"/> |
-| Frontend | <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/> |
-| Backend & Languages | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/> |
-| DevOps / Tools | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white"/> <img src="https://img.shields.io/badge/Oh%20My%20Posh-FBA918?logo=oh-my-posh&logoColor=white"/> |
-| Other | <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white"/> |
-
----
-
-### Contact
-
-<p align="center">
-  <a href="https://fb.com/phokin4720"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.com/users/am4am"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=00c7ff" />
 </p>
 
+</div>
+
 ---
 
-<h3 align="center">Thank you for stopping by. Let's code and create something great together!</h3>
+## 🚀 About Me
+
+```ts
+const Toey = {
+  role: "Frontend Developer",
+  focus: "Future Fullstack Engineer",
+  location: "Thailand 🇹🇭",
+  passion: ["Modern UI", "Cloud", "Backend Systems", "Clean UX"],
+  
+  techStack: {
+    frontend: ["React", "Next.js", "Flutter", "TailwindCSS"],
+    backend: ["Django", "Node.js", "Rust"],
+    database: ["PostgreSQL", "MongoDB"],
+    cloud: ["Azure", "Docker"],
+  },
+
+  currentlyLearning: ["Rust", "System Design", "Cloud Architecture"]
+}
