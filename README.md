@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="https://fb.com/phokin4720"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/toey_2216"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://discord.com/users/am4am"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
 </p>
 
