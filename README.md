@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Future+Fullstack+Engineer;Building+Modern+Web+Experiences;Flutter+%7C+Django+%7C+Rust+%7C+Cloud" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=00c7ff" />
+<p align="center">
+  <a href="https://fb.com/phokin4720"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.com/users/am4am"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
 </p>
 
 </div>
